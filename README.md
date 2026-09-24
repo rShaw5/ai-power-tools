@@ -1,5 +1,7 @@
 # AI Power Tool Examples
 
+> Public repo: https://github.com/rShaw5/ai-power-tools
+
 Three small, practical examples of getting more out of an AI assistant:
 plan before acting, study a book with help, and run a job-search workflow.
 Each example stands alone — start with whichever sounds most useful.
