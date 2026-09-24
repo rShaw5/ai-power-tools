@@ -1,5 +1,10 @@
 # Mode: agent-inbox — Queue requests for the next session (light example, bonus)
 
+> The companion script ships in this kit as `agent-inbox.mjs.txt` (Gmail
+> blocks `.mjs` attachments, even inside zips). Save it back as
+> `agent-inbox.mjs` to run it. The originals live at
+> https://github.com/rShaw5/ai-power-tools (see `Example 1` and `scripts/`).
+
 Append-only checklist at `data/agent-inbox.md` that the assistant drains at session start.
 
 ## Queue a request
